@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+
+.contenedor{
+    display: inline-block;
+    text-align: center;
+}
+.fondito{
+    background-color: rgb(7, 229, 155);
+}
+.fonditoNegro{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: red;
+}
+table{
+    width: 600px;
+}
